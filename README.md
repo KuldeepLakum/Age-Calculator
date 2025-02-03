@@ -34,6 +34,10 @@ Why Use This? 🤔
 
 ![Screenshot 2025-02-03 221943](https://github.com/user-attachments/assets/72ec6373-7216-448a-b4f3-54f693bf2b90)
 
+![Screenshot 2025-02-03 224135](https://github.com/user-attachments/assets/5a72fb9f-9615-4cbd-ac10-4c64452d8eef)
+
+![Screenshot 2025-02-03 224145](https://github.com/user-attachments/assets/de4858c0-0c85-47a6-ab2c-a6f9b8489c25)
+
 🛠️ Technologies Used
 
 • HTML: For the structure of the form and age display.
